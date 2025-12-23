@@ -1,9 +1,9 @@
 <?php
 // Koneksi ke database
-$host = "localhost";
-$user = "root";
-$password = "";
-$dbname = "db_pusatkebugaran";
+$host = "localhost"; 
+$user = "dbadmin"; 
+$password = "AditFerrySani1+";  
+$dbname = "db_pusatkebugaran"; 
 
 $conn = new mysqli($host, $user, $password, $dbname);
 
